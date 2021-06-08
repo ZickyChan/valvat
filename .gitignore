@@ -7,3 +7,4 @@ tmp
 .rbenv-*
 .ruby-version
 .ruby-gemset
+.idea
